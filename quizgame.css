@@ -1,0 +1,63 @@
+body
+{
+	background:#0275d8;
+}
+
+	.login_div1 
+	{
+		background:#5bc0de;
+		padding:100px;
+		float:none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h3,h1
+{
+color:white;
+font-size:30px;
+}
+button
+{
+width:500px;
+border-radius:30px;
+height:30px;
+background-color:#5bc0de;
+border:none;
+color:white;
+}
+label
+{
+color:rgb(0, 8, 255);
+font-size:20px;
+}
+#checkbutton
+{
+	border-radius:30px;
+	height:30px;
+	background-color:#5bc0de;
+	border:none;
+	color:white;
+}
